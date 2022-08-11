@@ -1,3 +1,6 @@
+![Banner Jogo da Memória](https://user-images.githubusercontent.com/100371634/184234397-a7999aa5-fccd-42e8-80cd-851d0081b0d9.png)
+
+
 ## Jogo da Memória Dev
 
 <div align='center'>
