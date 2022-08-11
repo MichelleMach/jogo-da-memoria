@@ -1,7 +1,7 @@
 ![Banner Jogo da Memória](https://user-images.githubusercontent.com/100371634/184234397-a7999aa5-fccd-42e8-80cd-851d0081b0d9.png)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5316af&size=35&center=true&vCenter=true&width=1000&lines=Jogo+da+Memória+Dev;;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5316af&size=35&center=true&vCenter=true&width=1000&lines=Jogo+da+Memória+Dev;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align='center'>
 <h3> Descrição </h3>
@@ -28,6 +28,9 @@ Algumas ideias que podem ser agregadas futuramente:
 
 </div>
 
-![image](https://user-images.githubusercontent.com/100371634/184227767-69f765c0-b439-4f53-95a0-3116ed48ab1f.png)
+![image](https://user-images.githubusercontent.com/100371634/184235702-3c453236-2c55-410d-986d-497ae34d225a.png)
+![image](https://user-images.githubusercontent.com/100371634/184235980-d6581f59-0add-41a0-9418-b26157e0239c.png)
+
+
 
 
