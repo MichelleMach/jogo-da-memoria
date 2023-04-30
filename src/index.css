@@ -14,7 +14,7 @@ body{
   justify-content: center;
   align-items: center;
   height: 100%;
-  background-image: linear-gradient(to top, rgb(236, 236, 236) , rgb(255, 251, 0));
+  background-image: linear-gradient(to top, rgb(252, 252, 252) , rgb(209, 209, 209));
   background-repeat: no-repeat;
 }
 
@@ -60,9 +60,9 @@ body{
 
 .card_back{
 
-  background-color: #05c3ff;
+  background-color: #6505ff;
   font-size: 30px;
-  color: #101c2c;
+  color: #e0e0e0;
   cursor: pointer;
 
 }
