@@ -23,7 +23,6 @@ Algumas ideias que podem ser agregadas futuramente:
 <div align='center'>
 <h3> Link Surge <h3>
 <a href="https://adventurous-advice.surge.sh"> Jogo da Memória Dev </a>
- <a href="https://www.freecodecamp.org/"> lalala </a>
 </div>
 
 <br>
