@@ -22,7 +22,7 @@ Algumas ideias que podem ser agregadas futuramente:
 
 <div align='center'>
 <h3> Link Surge <h3>
-<a href='three-quartz.surge.sh'> three-quartz.surge.sh </a>
+<a href='adventurous-advice.surge.sh'> Jogo da Memória Dev </a>
 </div>
 
 <br>
